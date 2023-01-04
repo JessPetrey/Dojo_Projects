@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Patrick Hand', cursive;
+}
+.body {
+    background-color: gainsboro;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
